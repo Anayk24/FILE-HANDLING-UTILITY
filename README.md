@@ -24,5 +24,5 @@ Hello I am Anay Khandelwal.
 Coding in java because i love coding in java.
 Step 3:Modification done.
 
-Output link:<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/50e8aecf-a3a9-48cf-b8fd-1aaf3f1b3108" />
-<img width="1851" height="961" alt="Image" src="https://github.com/user-attachments/assets/6d3d1edf-83e4-474f-bfd7-6904bb08d9df" />
+Output link:<img width="1851" height="961" alt="Image" src="https://github.com/user-attachments/assets/6d3d1edf-83e4-474f-bfd7-6904bb08d9df" />
+<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/50e8aecf-a3a9-48cf-b8fd-1aaf3f1b3108" />
