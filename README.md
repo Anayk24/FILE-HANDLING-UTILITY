@@ -17,9 +17,11 @@ This program is a simple but practical demonstration of how Java can work with t
 3.Modifying data – Finally, the program reads the file again, replaces a specific word, and writes the updated content back. This demonstrates how you can edit existing files programmatically.
 
 The flow is straightforward: create → read → update. By keeping the example simple, it’s easy to understand the basics of file I/O while still showing how powerful these operations can be when applied to larger projects.
-## Output:
+## Sample Output:
 Step 1: Writing done.
 Step 2: Reading file content:
 Hello I am Anay Khandelwal.
 Coding in java because i love coding in java.
 Step 3:Modification done.
+
+Output link:<img width="1920" height="1080" alt="Image" src="https://github.com/user-attachments/assets/50e8aecf-a3a9-48cf-b8fd-1aaf3f1b3108" />
